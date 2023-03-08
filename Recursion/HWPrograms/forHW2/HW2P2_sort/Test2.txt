@@ -1,0 +1,82 @@
+Script started on Sat 02 Oct 2021 10:46:33 AM PDT
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW2/HW2P2_sort[?1034h[swane003@empress HW2P2_sort]$ g++ combine.cpp
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW2/HW2P2_sort[swane003@empress HW2P2_sort]$ ./a.out
+How many elements in each list?
+3
+List1
+element :1
+element :2
+element :3
+List2
+element :4
+element :5
+element :6
+comparison
+comparison
+comparison
+comparison
+comparison
+comparison
+The result is: 123456
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW2/HW2P2_sort[swane003@empress HW2P2_sort]$ ./a.out
+How many elements in each list?
+3
+List1
+element :1
+element :3
+element :5
+List2
+element :2
+element :4
+element :6
+comparison
+comparison
+comparison
+comparison
+comparison
+comparison
+The result is: 123456
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW2/HW2P2_sort[swane003@empress HW2P2_sort]$ ./a.out
+How many elements in each list?
+3
+List1
+element :4
+element :5
+element :6
+List2
+element :1
+element :2
+element :3
+comparison
+comparison
+comparison
+comparison
+comparison
+comparison
+The result is: 123456
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW2/HW2P2_sort[swane003@empress HW2P2_sort]$ ./a.out
+How many elements in each list?
+4
+List1
+element :1
+element :2
+element :5
+element :6
+List2
+element :3
+element :4
+element :7
+element :8
+comparison
+comparison
+comparison
+comparison
+comparison
+comparison
+comparison
+comparison
+The result is: 12345678
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW2/HW2P2_sort[swane003@empress HW2P2_sort]$ exit
+exit
+
+Script done on Sat 02 Oct 2021 10:47:22 AM PDT

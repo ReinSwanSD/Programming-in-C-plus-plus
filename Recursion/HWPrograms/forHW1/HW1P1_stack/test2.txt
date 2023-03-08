@@ -1,0 +1,56 @@
+Script started on Fri 10 Sep 2021 05:41:55 PM PDT
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[?1034h[swane003@empress HW1P1_stack]$ g++ stack.cpp client1.cpp
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 34+
+
+Result: 7
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 345+*
+
+Result: 27
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 722+-
+
+Result: 3
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 34+56++
+
+Result: 18
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 12+34*45+-+
+
+Result: 6
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 1234567891234
+
+OVERFLOW!! Expression is too long...
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: +
+
+UNDERFLOW!! Too few operands... 
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3+
+
+UNDERFLOW!! Too few operands... 
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 3#
+
+Invalid element...
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ ./a.out
+type a postfix expression: 2345+
+
+Incomplete expression...
+
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P1_stack[swane003@empress HW1P1_stack]$ exit
+exit
+
+Script done on Fri 10 Sep 2021 05:43:57 PM PDT

@@ -1,0 +1,32 @@
+Script started on Fri 17 Sep 2021 11:03:41 AM PDT
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P2_queue[?1034h[swane003@empress HW1P2_queue]$ g++ queue.cpp MCclient2.cpp
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P2_queue[swane003@empress HW1P2_queue]$ ./a.out
+A
+B
+C
+AA
+AB
+AC
+BA
+BB
+BC
+CA
+CB
+CC
+AAA
+AAB
+AAC
+ABA
+ABB
+ABC
+ACA
+ACB
+ACC
+BAA
+BAB
+BAC
+ERROR: CANNOT ADD! THE QUEUE IS FULL!
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW1/HW1P2_queue[swane003@empress HW1P2_queue]$ exit
+exit
+
+Script done on Fri 17 Sep 2021 11:04:27 AM PDT
