@@ -1,0 +1,75 @@
+Script started on Sat 13 Nov 2021 08:32:33 PM PST
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW6[?1034h[swane003@empress forHW6]$ emacs hw7client.cplscd forHWlscd HWProgramlscd CS311Progs-Correctelscd HWProgramlscd forHWlsemacs hw7client.cpg[Kemacs hw7client.cplscd forHWlscd HWProgramlscd CS311Progs-Correctelscd cs311RYlscd CS311Progs-Correctelscd HWProgramlscd forHWlsemacs hw7client.cpg[K++ hw6client.cpp llist.cpp slist.cpp
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW6[swane003@empress forHW6]$ ./a.out
+
+Enter a file name: table.txt
+
+  Out Visit	Adj
+ ----------------------
+A  2 	0	[ B  F ]
+B  2 	0	[ C  G ]
+C  1 	0	[ H ]
+D  0 	0	[ Empty ]
+E  0 	0	[ Empty ]
+F  2 	0	[ I  E ]
+G  0 	0	[ Empty ]
+H  2 	0	[ G  I ]
+I  3 	0	[ A  G  E ]
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+A
+Degree: 2
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+B
+Degree: 2
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+C
+Degree: 1
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+D
+Degree: 0
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+E
+Degree: 0
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+F
+Degree: 2
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+G
+Degree: 0
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+H
+Degree: 2
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+I
+Degree: 3
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+1
+Invalid Vertex
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+2
+Invalid Vertex
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+3
+Invalid Vertex
+
+Enter a vertex to find out its degree (Enter 0 to stop)
+0
+
+Enter a vertex to see vertex adjacency (Enter 0 to stop)
+0
+]0;swane003@empress:~/cs311RY/CS311Progs-Corrected/HWPrograms/forHW6[swane003@empress forHW6]$ exit
+exit
+
+Script done on Sat 13 Nov 2021 08:33:50 PM PST

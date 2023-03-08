@@ -1,0 +1,6 @@
+33 rika f CS
+20 mary f CIS
+17 john m CS
+8  abe m CIS
+45 bella f CS
+82 coco	 f CIS

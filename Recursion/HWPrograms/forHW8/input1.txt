@@ -1,0 +1,6 @@
+33 rika 
+20 mary 
+17 john 
+8  abe 
+45 bella
+82 coco	
